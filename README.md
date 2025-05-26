@@ -98,6 +98,7 @@ To provide a clear, visual segmentation of customers using RFM logic so business
 ### 🖼️ Screenshots / Demos
 
 **Dashboard Preview** – 
-(https://github.com/Justin0824/RFM-Report-Analysis/blob/main/RFM%20Report.png)
+![Home Page](https://github.com/Justin0824/RFM-Report-Analysis/blob/main/RFM%20Report.png)
+
 
 
