@@ -1,8 +1,5 @@
-Thank you! Based on the **RFM Report.png** image you provided, here is a detailed project description in the **same format as your Swiggy vs Zomato dashboard write-up**, fully aligned with what’s visualized in the image:
 
----
-
-## 🧮 RFM Customer Segmentation Dashboard
+## 🧮 RFM Report Analysis 
 
 A data-driven Power BI dashboard built to segment customers using **Recency**, **Frequency**, and **Monetary** metrics. The dashboard provides actionable insights for customer retention, personalized marketing, and revenue growth strategies.
 
